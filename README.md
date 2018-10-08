@@ -1,0 +1,2 @@
+# Agriturismo-Il-Miglio
+Il sito offre informazioni generali sull’agriturismo, sui servizi offerti e si rivolge agli utenti interessati all’acquisto di prodotti tipici locali. In particolare lo scopo del sito è quello di facilitare la gestione degli acquisti dei prodotti, delle prenotazioni e pubblicizzare l’agriturismo. I contenuti del sito sono: le informazioni generali sull’agriturismo, una sezione sui prodotti acquistabili con il relativo carrello, una sezione per effettuare la prenotazione, una sezione gallery e infine una sezione contatti.
